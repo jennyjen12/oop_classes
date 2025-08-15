@@ -6,7 +6,7 @@ class Computer {
 
   void describe() {
     // ignore: avoid_print
-    print("I am $model manufactured by $brand");
+    print(" My model is $model manufactured by $brand");
   }
   
 }
